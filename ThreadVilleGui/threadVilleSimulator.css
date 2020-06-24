@@ -1,0 +1,58 @@
+window {
+  background-color:#dcdcdc;
+}
+
+button {
+  font-weight: 600;
+  font-size: 12px;
+  font-family: "Sans";
+}
+
+label#title-label  {
+  color: #000000;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: "Sans";
+}
+
+label#description-label  {
+  color: #000000;
+  font-size: 12px;
+  font-family: "Sans";
+}
+
+#orange {
+  color: #ff8c00;
+}
+
+#pink {
+  color: #ff69b4;
+}
+
+#skyBlue {
+  color: #00bfff;
+}
+
+#white {
+  color: #ffffff;
+}
+
+#black {
+  color: #000000;
+}
+
+#gray {
+  color: #404040;
+}
+
+#red {
+  color: #cd0000;
+}
+
+#green {
+  color: #008b00;
+}
+
+#blue {
+  color: #1874cd;
+}
